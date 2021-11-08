@@ -828,3 +828,28 @@ Received Import Request.
 Start importing Assets/Test/teletape_back4_2 — копия.png using Guid(eefa4ca6c01be2941a37e006d206703e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5f683e4dbdcb8da663093018fb297cf') in 0.018859 seconds 
   Import took 0.022420 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 720.996255 seconds.
+  path: Assets/Test/teletape_back4_2.png
+  artifactKey: Guid(fcba99ba66e8e6c43b3ee1b1af2a6f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test/teletape_back4_2.png using Guid(fcba99ba66e8e6c43b3ee1b1af2a6f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4630d4bed7682c0c06dae6dcf487dfc9') in 0.011130 seconds 
+  Import took 0.015507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.629391 seconds.
+  path: Assets/Test/teletape_back4_2.png
+  artifactKey: Guid(fcba99ba66e8e6c43b3ee1b1af2a6f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test/teletape_back4_2.png using Guid(fcba99ba66e8e6c43b3ee1b1af2a6f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54b155ac469ac8791160621e7601896') in 0.017149 seconds 
+  Import took 0.020836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.608201 seconds.
+  path: Assets/Test/teletape_back4_2.png
+  artifactKey: Guid(fcba99ba66e8e6c43b3ee1b1af2a6f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test/teletape_back4_2.png using Guid(fcba99ba66e8e6c43b3ee1b1af2a6f30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1a4307123cbc9d04904431c0aa0ca3') in 0.018036 seconds 
+  Import took 0.021669 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
